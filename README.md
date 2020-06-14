@@ -1,2 +1,17 @@
-# responsive-portfolio
-This is a responsive portfolio created from a bootstrap layout. 
+# Responsive-Portfolio
+
+## Table of contents
+
+- [General info](#general-info)
+
+## General info
+
+Responsive Portfolio
+
+## Authors
+
+- Benjamin
+
+## License
+
+- Open Source
