@@ -1,0 +1,47 @@
+
+ #contact {
+    font-size: 40px;
+    color: black;
+    text-align:center;
+    padding: 20px 0;
+  }
+
+  #logo {
+    text-align: center;
+    padding:20px 0;
+  }
+
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: black;
+    background: lightgrey;
+  }
+  
+  header {
+  
+     background: black
+  }
+  
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 0px;
+    font-size: 30px;
+    color: #eee;
+    text-align: center;
+  }
+
+  .container1 {
+    width: 1024px;
+    margin: 0 auto;
+    float: inline-start;
+    padding: 20px 0;
+  }
+
+ 
